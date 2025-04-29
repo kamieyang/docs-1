@@ -23,11 +23,11 @@ Gimo Finance, powered by the StaFi LSaaS (Liquid Staking as a Service), is a key
 
 By staking through Gimo Finance, users receive **st0G**, a liquid, interest-bearing token that represents their staked A0GI. st0G not only accrues staking rewards, but also maintains full liquidity and composability across the 0G DeFi ecosystem.
 
-This integration allows A0GI holders to both secure the network and participate in DeFi opportunities simultaneously—amplifying capital efficiency and supporting the broader growth of 0G's AI-powered infrastructure.
+This integration allows 0G holders to both secure the network and participate in DeFi opportunities simultaneously—amplifying capital efficiency and supporting the broader growth of 0G's AI-powered infrastructure.
 
 ## Ecosystem Benefits
 
-- **Strengthening Network Security:** Gimo Finance introduces a non-custodial staking model that allows A0GI token holders to directly contribute to network consensus and security. By decentralizing validator support, Gimo helps reduce reliance on a few large stakeholders, making the 0G network more resilient and censorship-resistant.
+- **Strengthening Network Security:** Gimo Finance introduces a non-custodial staking model that allows 0G token holders to directly contribute to network consensus and security. By decentralizing validator support, Gimo helps reduce reliance on a few large stakeholders, making the 0G network more resilient and censorship-resistant.
 - **Boosting Capital Efficiency:** Through Gimo, users receive **st0G**—a fully liquid, yield-generating derivative of staked A0GI tokens. This means users don’t need to choose between earning rewards and maintaining liquidity. st0G can be held, traded, or utilized in DeFi protocols while still accruing staking yields, turning idle assets into productive ones.
 - **Expanding DeFi Utility Across the 0G Ecosystem:** st0G is not just a staking receipt—it’s a powerful DeFi primitive. It can be seamlessly integrated into lending markets, yield farms, decentralized exchanges, and liquidity pools within the 0G ecosystem. This creates a composable financial layer where users can stack multiple strategies for higher capital efficiency.
 - **Increasing Community Engagement and Participation:** By streamlining the staking experience and reducing technical barriers, Gimo makes it easy for all types of users—novices and veterans alike—to engage in 0G staking. This encourages wider token distribution, strengthens community alignment, and drives more active participation in ecosystem governance and development.
